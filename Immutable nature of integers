@@ -1,0 +1,4 @@
+x = 5         # x takes value 5
+y = x         # y equals x
+x = 8         # x gets a new value of 8
+print(y)    # here, it prints 5 because integers are immutable.
